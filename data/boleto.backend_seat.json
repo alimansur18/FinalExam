@@ -1,0 +1,10800 @@
+[{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d924e8"
+  },
+  "id": 1,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "A1",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d924e9"
+  },
+  "id": 2,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "A2",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d924ea"
+  },
+  "id": 3,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "A3",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d924eb"
+  },
+  "id": 4,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "A4",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d924ec"
+  },
+  "id": 5,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "A5",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d924ed"
+  },
+  "id": 6,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "A6",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d924ee"
+  },
+  "id": 7,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "A7",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d924ef"
+  },
+  "id": 8,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "A8",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d924f0"
+  },
+  "id": 9,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "A9",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d924f1"
+  },
+  "id": 10,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "A10",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d924f2"
+  },
+  "id": 11,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "B1",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d924f3"
+  },
+  "id": 12,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "B2",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d924f4"
+  },
+  "id": 13,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "B3",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d924f5"
+  },
+  "id": 14,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "B4",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d924f6"
+  },
+  "id": 15,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "B5",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d924f7"
+  },
+  "id": 16,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "B6",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d924f8"
+  },
+  "id": 17,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "B7",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d924f9"
+  },
+  "id": 18,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "B8",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d924fa"
+  },
+  "id": 19,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "B9",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d924fb"
+  },
+  "id": 20,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "B10",
+  "is_reserved": true,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d924fc"
+  },
+  "id": 21,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "C1",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d924fd"
+  },
+  "id": 22,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "C2",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d924fe"
+  },
+  "id": 23,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "C3",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d924ff"
+  },
+  "id": 24,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "C4",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92500"
+  },
+  "id": 25,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "C5",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92501"
+  },
+  "id": 26,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "C6",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92502"
+  },
+  "id": 27,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "C7",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92503"
+  },
+  "id": 28,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "C8",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92504"
+  },
+  "id": 29,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "C9",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92505"
+  },
+  "id": 30,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "C10",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92506"
+  },
+  "id": 31,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "D1",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92507"
+  },
+  "id": 32,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "D2",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92508"
+  },
+  "id": 33,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "D3",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92509"
+  },
+  "id": 34,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "D4",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9250a"
+  },
+  "id": 35,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "D5",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9250b"
+  },
+  "id": 36,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "D6",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9250c"
+  },
+  "id": 37,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "D7",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9250d"
+  },
+  "id": 38,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "D8",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9250e"
+  },
+  "id": 39,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "D9",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9250f"
+  },
+  "id": 40,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "D10",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92510"
+  },
+  "id": 41,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "E1",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92511"
+  },
+  "id": 42,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "E2",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92512"
+  },
+  "id": 43,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "E3",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92513"
+  },
+  "id": 44,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "E4",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92514"
+  },
+  "id": 45,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "E5",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92515"
+  },
+  "id": 46,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "E6",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92516"
+  },
+  "id": 47,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "E7",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92517"
+  },
+  "id": 48,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "E8",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92518"
+  },
+  "id": 49,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "E9",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92519"
+  },
+  "id": 50,
+  "theatre_id": 1,
+  "movie_id": 7,
+  "seat_no": "E10",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9251a"
+  },
+  "id": 51,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "A1",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9251b"
+  },
+  "id": 52,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "A2",
+  "is_reserved": true,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9251c"
+  },
+  "id": 53,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "A3",
+  "is_reserved": true,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9251d"
+  },
+  "id": 54,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "A4",
+  "is_reserved": true,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9251e"
+  },
+  "id": 55,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "A5",
+  "is_reserved": true,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9251f"
+  },
+  "id": 56,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "A6",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92520"
+  },
+  "id": 57,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "A7",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92521"
+  },
+  "id": 58,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "A8",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92522"
+  },
+  "id": 59,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "A9",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92523"
+  },
+  "id": 60,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "A10",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92524"
+  },
+  "id": 61,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "B1",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92525"
+  },
+  "id": 62,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "B2",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92526"
+  },
+  "id": 63,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "B3",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92527"
+  },
+  "id": 64,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "B4",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92528"
+  },
+  "id": 65,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "B5",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92529"
+  },
+  "id": 66,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "B6",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9252a"
+  },
+  "id": 67,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "B7",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9252b"
+  },
+  "id": 68,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "B8",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9252c"
+  },
+  "id": 69,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "B9",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9252d"
+  },
+  "id": 70,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "B10",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9252e"
+  },
+  "id": 71,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "C1",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9252f"
+  },
+  "id": 72,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "C2",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92530"
+  },
+  "id": 73,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "C3",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92531"
+  },
+  "id": 74,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "C4",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92532"
+  },
+  "id": 75,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "C5",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92533"
+  },
+  "id": 76,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "C6",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92534"
+  },
+  "id": 77,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "C7",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92535"
+  },
+  "id": 78,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "C8",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92536"
+  },
+  "id": 79,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "C9",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92537"
+  },
+  "id": 80,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "C10",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92538"
+  },
+  "id": 81,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "D1",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92539"
+  },
+  "id": 82,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "D2",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9253a"
+  },
+  "id": 83,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "D3",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9253b"
+  },
+  "id": 84,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "D4",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9253c"
+  },
+  "id": 85,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "D5",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9253d"
+  },
+  "id": 86,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "D6",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9253e"
+  },
+  "id": 87,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "D7",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9253f"
+  },
+  "id": 88,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "D8",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92540"
+  },
+  "id": 89,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "D9",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92541"
+  },
+  "id": 90,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "D10",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92542"
+  },
+  "id": 91,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "E1",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92543"
+  },
+  "id": 92,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "E2",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92544"
+  },
+  "id": 93,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "E3",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92545"
+  },
+  "id": 94,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "E4",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92546"
+  },
+  "id": 95,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "E5",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92547"
+  },
+  "id": 96,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "E6",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92548"
+  },
+  "id": 97,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "E7",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92549"
+  },
+  "id": 98,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "E8",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9254a"
+  },
+  "id": 99,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "E9",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9254b"
+  },
+  "id": 100,
+  "theatre_id": 1,
+  "movie_id": 9,
+  "seat_no": "E10",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9254c"
+  },
+  "id": 101,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "A1",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9254d"
+  },
+  "id": 102,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "A2",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9254e"
+  },
+  "id": 103,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "A3",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9254f"
+  },
+  "id": 104,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "A4",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92550"
+  },
+  "id": 105,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "A5",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92551"
+  },
+  "id": 106,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "A6",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92552"
+  },
+  "id": 107,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "A7",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92553"
+  },
+  "id": 108,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "A8",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92554"
+  },
+  "id": 109,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "A9",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92555"
+  },
+  "id": 110,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "A10",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92556"
+  },
+  "id": 111,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "B1",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92557"
+  },
+  "id": 112,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "B2",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92558"
+  },
+  "id": 113,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "B3",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92559"
+  },
+  "id": 114,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "B4",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9255a"
+  },
+  "id": 115,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "B5",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9255b"
+  },
+  "id": 116,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "B6",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9255c"
+  },
+  "id": 117,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "B7",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9255d"
+  },
+  "id": 118,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "B8",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9255e"
+  },
+  "id": 119,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "B9",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9255f"
+  },
+  "id": 120,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "B10",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92560"
+  },
+  "id": 121,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "C1",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92561"
+  },
+  "id": 122,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "C2",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92562"
+  },
+  "id": 123,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "C3",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92563"
+  },
+  "id": 124,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "C4",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92564"
+  },
+  "id": 125,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "C5",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92565"
+  },
+  "id": 126,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "C6",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92566"
+  },
+  "id": 127,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "C7",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92567"
+  },
+  "id": 128,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "C8",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92568"
+  },
+  "id": 129,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "C9",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92569"
+  },
+  "id": 130,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "C10",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9256a"
+  },
+  "id": 131,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "D1",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9256b"
+  },
+  "id": 132,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "D2",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9256c"
+  },
+  "id": 133,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "D3",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9256d"
+  },
+  "id": 134,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "D4",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9256e"
+  },
+  "id": 135,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "D5",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9256f"
+  },
+  "id": 136,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "D6",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92570"
+  },
+  "id": 137,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "D7",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92571"
+  },
+  "id": 138,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "D8",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92572"
+  },
+  "id": 139,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "D9",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92573"
+  },
+  "id": 140,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "D10",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92574"
+  },
+  "id": 141,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "E1",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92575"
+  },
+  "id": 142,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "E2",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92576"
+  },
+  "id": 143,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "E3",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92577"
+  },
+  "id": 144,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "E4",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92578"
+  },
+  "id": 145,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "E5",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92579"
+  },
+  "id": 146,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "E6",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9257a"
+  },
+  "id": 147,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "E7",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9257b"
+  },
+  "id": 148,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "E8",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9257c"
+  },
+  "id": 149,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "E9",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9257d"
+  },
+  "id": 150,
+  "theatre_id": 1,
+  "movie_id": 8,
+  "seat_no": "E10",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9257e"
+  },
+  "id": 151,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "A1",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9257f"
+  },
+  "id": 152,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "A2",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92580"
+  },
+  "id": 153,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "A3",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92581"
+  },
+  "id": 154,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "A4",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92582"
+  },
+  "id": 155,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "A5",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92583"
+  },
+  "id": 156,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "A6",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92584"
+  },
+  "id": 157,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "A7",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92585"
+  },
+  "id": 158,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "A8",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92586"
+  },
+  "id": 159,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "A9",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92587"
+  },
+  "id": 160,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "A10",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92588"
+  },
+  "id": 161,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "B1",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92589"
+  },
+  "id": 162,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "B2",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9258a"
+  },
+  "id": 163,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "B3",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9258b"
+  },
+  "id": 164,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "B4",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9258c"
+  },
+  "id": 165,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "B5",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9258d"
+  },
+  "id": 166,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "B6",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9258e"
+  },
+  "id": 167,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "B7",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9258f"
+  },
+  "id": 168,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "B8",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92590"
+  },
+  "id": 169,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "B9",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92591"
+  },
+  "id": 170,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "B10",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92592"
+  },
+  "id": 171,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "C1",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92593"
+  },
+  "id": 172,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "C2",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92594"
+  },
+  "id": 173,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "C3",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92595"
+  },
+  "id": 174,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "C4",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92596"
+  },
+  "id": 175,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "C5",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92597"
+  },
+  "id": 176,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "C6",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92598"
+  },
+  "id": 177,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "C7",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92599"
+  },
+  "id": 178,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "C8",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9259a"
+  },
+  "id": 179,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "C9",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9259b"
+  },
+  "id": 180,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "C10",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9259c"
+  },
+  "id": 181,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "D1",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9259d"
+  },
+  "id": 182,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "D2",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9259e"
+  },
+  "id": 183,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "D3",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9259f"
+  },
+  "id": 184,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "D4",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925a0"
+  },
+  "id": 185,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "D5",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925a1"
+  },
+  "id": 186,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "D6",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925a2"
+  },
+  "id": 187,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "D7",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925a3"
+  },
+  "id": 188,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "D8",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925a4"
+  },
+  "id": 189,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "D9",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925a5"
+  },
+  "id": 190,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "D10",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925a6"
+  },
+  "id": 191,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "E1",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925a7"
+  },
+  "id": 192,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "E2",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925a8"
+  },
+  "id": 193,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "E3",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925a9"
+  },
+  "id": 194,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "E4",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925aa"
+  },
+  "id": 195,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "E5",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925ab"
+  },
+  "id": 196,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "E6",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925ac"
+  },
+  "id": 197,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "E7",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925ad"
+  },
+  "id": 198,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "E8",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925ae"
+  },
+  "id": 199,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "E9",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925af"
+  },
+  "id": 200,
+  "theatre_id": 2,
+  "movie_id": 7,
+  "seat_no": "E10",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925b0"
+  },
+  "id": 201,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "A1",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925b1"
+  },
+  "id": 202,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "A2",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925b2"
+  },
+  "id": 203,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "A3",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925b3"
+  },
+  "id": 204,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "A4",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925b4"
+  },
+  "id": 205,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "A5",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925b5"
+  },
+  "id": 206,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "A6",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925b6"
+  },
+  "id": 207,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "A7",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925b7"
+  },
+  "id": 208,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "A8",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925b8"
+  },
+  "id": 209,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "A9",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925b9"
+  },
+  "id": 210,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "A10",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925ba"
+  },
+  "id": 211,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "B1",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925bb"
+  },
+  "id": 212,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "B2",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925bc"
+  },
+  "id": 213,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "B3",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925bd"
+  },
+  "id": 214,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "B4",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925be"
+  },
+  "id": 215,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "B5",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925bf"
+  },
+  "id": 216,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "B6",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925c0"
+  },
+  "id": 217,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "B7",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925c1"
+  },
+  "id": 218,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "B8",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925c2"
+  },
+  "id": 219,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "B9",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925c3"
+  },
+  "id": 220,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "B10",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925c4"
+  },
+  "id": 221,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "C1",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925c5"
+  },
+  "id": 222,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "C2",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925c6"
+  },
+  "id": 223,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "C3",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925c7"
+  },
+  "id": 224,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "C4",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925c8"
+  },
+  "id": 225,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "C5",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925c9"
+  },
+  "id": 226,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "C6",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925ca"
+  },
+  "id": 227,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "C7",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925cb"
+  },
+  "id": 228,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "C8",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925cc"
+  },
+  "id": 229,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "C9",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925cd"
+  },
+  "id": 230,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "C10",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925ce"
+  },
+  "id": 231,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "D1",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925cf"
+  },
+  "id": 232,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "D2",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925d0"
+  },
+  "id": 233,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "D3",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925d1"
+  },
+  "id": 234,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "D4",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925d2"
+  },
+  "id": 235,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "D5",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925d3"
+  },
+  "id": 236,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "D6",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925d4"
+  },
+  "id": 237,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "D7",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925d5"
+  },
+  "id": 238,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "D8",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925d6"
+  },
+  "id": 239,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "D9",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925d7"
+  },
+  "id": 240,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "D10",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925d8"
+  },
+  "id": 241,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "E1",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925d9"
+  },
+  "id": 242,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "E2",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925da"
+  },
+  "id": 243,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "E3",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925db"
+  },
+  "id": 244,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "E4",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925dc"
+  },
+  "id": 245,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "E5",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925dd"
+  },
+  "id": 246,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "E6",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925de"
+  },
+  "id": 247,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "E7",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925df"
+  },
+  "id": 248,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "E8",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925e0"
+  },
+  "id": 249,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "E9",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925e1"
+  },
+  "id": 250,
+  "theatre_id": 2,
+  "movie_id": 9,
+  "seat_no": "E10",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925e2"
+  },
+  "id": 251,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "A1",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925e3"
+  },
+  "id": 252,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "A2",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925e4"
+  },
+  "id": 253,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "A3",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925e5"
+  },
+  "id": 254,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "A4",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925e6"
+  },
+  "id": 255,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "A5",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925e7"
+  },
+  "id": 256,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "A6",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925e8"
+  },
+  "id": 257,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "A7",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925e9"
+  },
+  "id": 258,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "A8",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925ea"
+  },
+  "id": 259,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "A9",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925eb"
+  },
+  "id": 260,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "A10",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925ec"
+  },
+  "id": 261,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "B1",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925ed"
+  },
+  "id": 262,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "B2",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925ee"
+  },
+  "id": 263,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "B3",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925ef"
+  },
+  "id": 264,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "B4",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925f0"
+  },
+  "id": 265,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "B5",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925f1"
+  },
+  "id": 266,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "B6",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925f2"
+  },
+  "id": 267,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "B7",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925f3"
+  },
+  "id": 268,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "B8",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925f4"
+  },
+  "id": 269,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "B9",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925f5"
+  },
+  "id": 270,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "B10",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925f6"
+  },
+  "id": 271,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "C1",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925f7"
+  },
+  "id": 272,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "C2",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925f8"
+  },
+  "id": 273,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "C3",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925f9"
+  },
+  "id": 274,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "C4",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925fa"
+  },
+  "id": 275,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "C5",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925fb"
+  },
+  "id": 276,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "C6",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925fc"
+  },
+  "id": 277,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "C7",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925fd"
+  },
+  "id": 278,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "C8",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925fe"
+  },
+  "id": 279,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "C9",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d925ff"
+  },
+  "id": 280,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "C10",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92600"
+  },
+  "id": 281,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "D1",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92601"
+  },
+  "id": 282,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "D2",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92602"
+  },
+  "id": 283,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "D3",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92603"
+  },
+  "id": 284,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "D4",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92604"
+  },
+  "id": 285,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "D5",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92605"
+  },
+  "id": 286,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "D6",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92606"
+  },
+  "id": 287,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "D7",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92607"
+  },
+  "id": 288,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "D8",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92608"
+  },
+  "id": 289,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "D9",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92609"
+  },
+  "id": 290,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "D10",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9260a"
+  },
+  "id": 291,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "E1",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9260b"
+  },
+  "id": 292,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "E2",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9260c"
+  },
+  "id": 293,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "E3",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9260d"
+  },
+  "id": 294,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "E4",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9260e"
+  },
+  "id": 295,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "E5",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9260f"
+  },
+  "id": 296,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "E6",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92610"
+  },
+  "id": 297,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "E7",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92611"
+  },
+  "id": 298,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "E8",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92612"
+  },
+  "id": 299,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "E9",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92613"
+  },
+  "id": 300,
+  "theatre_id": 2,
+  "movie_id": 8,
+  "seat_no": "E10",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92614"
+  },
+  "id": 301,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "A1",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92615"
+  },
+  "id": 302,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "A2",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92616"
+  },
+  "id": 303,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "A3",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92617"
+  },
+  "id": 304,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "A4",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92618"
+  },
+  "id": 305,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "A5",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92619"
+  },
+  "id": 306,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "A6",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9261a"
+  },
+  "id": 307,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "A7",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9261b"
+  },
+  "id": 308,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "A8",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9261c"
+  },
+  "id": 309,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "A9",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9261d"
+  },
+  "id": 310,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "A10",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9261e"
+  },
+  "id": 311,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "B1",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9261f"
+  },
+  "id": 312,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "B2",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92620"
+  },
+  "id": 313,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "B3",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92621"
+  },
+  "id": 314,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "B4",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92622"
+  },
+  "id": 315,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "B5",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92623"
+  },
+  "id": 316,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "B6",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92624"
+  },
+  "id": 317,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "B7",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92625"
+  },
+  "id": 318,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "B8",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92626"
+  },
+  "id": 319,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "B9",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92627"
+  },
+  "id": 320,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "B10",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92628"
+  },
+  "id": 321,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "C1",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92629"
+  },
+  "id": 322,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "C2",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9262a"
+  },
+  "id": 323,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "C3",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9262b"
+  },
+  "id": 324,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "C4",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9262c"
+  },
+  "id": 325,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "C5",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9262d"
+  },
+  "id": 326,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "C6",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9262e"
+  },
+  "id": 327,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "C7",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9262f"
+  },
+  "id": 328,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "C8",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92630"
+  },
+  "id": 329,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "C9",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92631"
+  },
+  "id": 330,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "C10",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92632"
+  },
+  "id": 331,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "D1",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92633"
+  },
+  "id": 332,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "D2",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92634"
+  },
+  "id": 333,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "D3",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92635"
+  },
+  "id": 334,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "D4",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92636"
+  },
+  "id": 335,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "D5",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92637"
+  },
+  "id": 336,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "D6",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92638"
+  },
+  "id": 337,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "D7",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92639"
+  },
+  "id": 338,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "D8",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9263a"
+  },
+  "id": 339,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "D9",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9263b"
+  },
+  "id": 340,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "D10",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9263c"
+  },
+  "id": 341,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "E1",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9263d"
+  },
+  "id": 342,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "E2",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9263e"
+  },
+  "id": 343,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "E3",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9263f"
+  },
+  "id": 344,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "E4",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92640"
+  },
+  "id": 345,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "E5",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92641"
+  },
+  "id": 346,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "E6",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92642"
+  },
+  "id": 347,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "E7",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92643"
+  },
+  "id": 348,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "E8",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92644"
+  },
+  "id": 349,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "E9",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92645"
+  },
+  "id": 350,
+  "theatre_id": 3,
+  "movie_id": 6,
+  "seat_no": "E10",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92646"
+  },
+  "id": 351,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "A1",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92647"
+  },
+  "id": 352,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "A2",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92648"
+  },
+  "id": 353,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "A3",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92649"
+  },
+  "id": 354,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "A4",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9264a"
+  },
+  "id": 355,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "A5",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9264b"
+  },
+  "id": 356,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "A6",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9264c"
+  },
+  "id": 357,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "A7",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9264d"
+  },
+  "id": 358,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "A8",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9264e"
+  },
+  "id": 359,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "A9",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9264f"
+  },
+  "id": 360,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "A10",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92650"
+  },
+  "id": 361,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "B1",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92651"
+  },
+  "id": 362,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "B2",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92652"
+  },
+  "id": 363,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "B3",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92653"
+  },
+  "id": 364,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "B4",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92654"
+  },
+  "id": 365,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "B5",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92655"
+  },
+  "id": 366,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "B6",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92656"
+  },
+  "id": 367,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "B7",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92657"
+  },
+  "id": 368,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "B8",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92658"
+  },
+  "id": 369,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "B9",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92659"
+  },
+  "id": 370,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "B10",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9265a"
+  },
+  "id": 371,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "C1",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9265b"
+  },
+  "id": 372,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "C2",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9265c"
+  },
+  "id": 373,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "C3",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9265d"
+  },
+  "id": 374,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "C4",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9265e"
+  },
+  "id": 375,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "C5",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9265f"
+  },
+  "id": 376,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "C6",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92660"
+  },
+  "id": 377,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "C7",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92661"
+  },
+  "id": 378,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "C8",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92662"
+  },
+  "id": 379,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "C9",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92663"
+  },
+  "id": 380,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "C10",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92664"
+  },
+  "id": 381,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "D1",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92665"
+  },
+  "id": 382,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "D2",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92666"
+  },
+  "id": 383,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "D3",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92667"
+  },
+  "id": 384,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "D4",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92668"
+  },
+  "id": 385,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "D5",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92669"
+  },
+  "id": 386,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "D6",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9266a"
+  },
+  "id": 387,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "D7",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9266b"
+  },
+  "id": 388,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "D8",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9266c"
+  },
+  "id": 389,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "D9",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9266d"
+  },
+  "id": 390,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "D10",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9266e"
+  },
+  "id": 391,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "E1",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9266f"
+  },
+  "id": 392,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "E2",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92670"
+  },
+  "id": 393,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "E3",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92671"
+  },
+  "id": 394,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "E4",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92672"
+  },
+  "id": 395,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "E5",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92673"
+  },
+  "id": 396,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "E6",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92674"
+  },
+  "id": 397,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "E7",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92675"
+  },
+  "id": 398,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "E8",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92676"
+  },
+  "id": 399,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "E9",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92677"
+  },
+  "id": 400,
+  "theatre_id": 3,
+  "movie_id": 5,
+  "seat_no": "E10",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92678"
+  },
+  "id": 401,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "A1",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92679"
+  },
+  "id": 402,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "A2",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9267a"
+  },
+  "id": 403,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "A3",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9267b"
+  },
+  "id": 404,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "A4",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9267c"
+  },
+  "id": 405,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "A5",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9267d"
+  },
+  "id": 406,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "A6",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9267e"
+  },
+  "id": 407,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "A7",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9267f"
+  },
+  "id": 408,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "A8",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92680"
+  },
+  "id": 409,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "A9",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92681"
+  },
+  "id": 410,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "A10",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92682"
+  },
+  "id": 411,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "B1",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92683"
+  },
+  "id": 412,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "B2",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92684"
+  },
+  "id": 413,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "B3",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92685"
+  },
+  "id": 414,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "B4",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92686"
+  },
+  "id": 415,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "B5",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92687"
+  },
+  "id": 416,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "B6",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92688"
+  },
+  "id": 417,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "B7",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92689"
+  },
+  "id": 418,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "B8",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9268a"
+  },
+  "id": 419,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "B9",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9268b"
+  },
+  "id": 420,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "B10",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9268c"
+  },
+  "id": 421,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "C1",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9268d"
+  },
+  "id": 422,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "C2",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9268e"
+  },
+  "id": 423,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "C3",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9268f"
+  },
+  "id": 424,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "C4",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92690"
+  },
+  "id": 425,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "C5",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92691"
+  },
+  "id": 426,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "C6",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92692"
+  },
+  "id": 427,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "C7",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92693"
+  },
+  "id": 428,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "C8",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92694"
+  },
+  "id": 429,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "C9",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92695"
+  },
+  "id": 430,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "C10",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92696"
+  },
+  "id": 431,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "D1",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92697"
+  },
+  "id": 432,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "D2",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92698"
+  },
+  "id": 433,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "D3",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92699"
+  },
+  "id": 434,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "D4",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9269a"
+  },
+  "id": 435,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "D5",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9269b"
+  },
+  "id": 436,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "D6",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9269c"
+  },
+  "id": 437,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "D7",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9269d"
+  },
+  "id": 438,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "D8",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9269e"
+  },
+  "id": 439,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "D9",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9269f"
+  },
+  "id": 440,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "D10",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926a0"
+  },
+  "id": 441,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "E1",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926a1"
+  },
+  "id": 442,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "E2",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926a2"
+  },
+  "id": 443,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "E3",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926a3"
+  },
+  "id": 444,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "E4",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926a4"
+  },
+  "id": 445,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "E5",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926a5"
+  },
+  "id": 446,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "E6",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926a6"
+  },
+  "id": 447,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "E7",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926a7"
+  },
+  "id": 448,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "E8",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926a8"
+  },
+  "id": 449,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "E9",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926a9"
+  },
+  "id": 450,
+  "theatre_id": 3,
+  "movie_id": 4,
+  "seat_no": "E10",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926aa"
+  },
+  "id": 451,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "A1",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926ab"
+  },
+  "id": 452,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "A2",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926ac"
+  },
+  "id": 453,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "A3",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926ad"
+  },
+  "id": 454,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "A4",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926ae"
+  },
+  "id": 455,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "A5",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926af"
+  },
+  "id": 456,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "A6",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926b0"
+  },
+  "id": 457,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "A7",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926b1"
+  },
+  "id": 458,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "A8",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926b2"
+  },
+  "id": 459,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "A9",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926b3"
+  },
+  "id": 460,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "A10",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926b4"
+  },
+  "id": 461,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "B1",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926b5"
+  },
+  "id": 462,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "B2",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926b6"
+  },
+  "id": 463,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "B3",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926b7"
+  },
+  "id": 464,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "B4",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926b8"
+  },
+  "id": 465,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "B5",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926b9"
+  },
+  "id": 466,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "B6",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926ba"
+  },
+  "id": 467,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "B7",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926bb"
+  },
+  "id": 468,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "B8",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926bc"
+  },
+  "id": 469,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "B9",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926bd"
+  },
+  "id": 470,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "B10",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926be"
+  },
+  "id": 471,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "C1",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926bf"
+  },
+  "id": 472,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "C2",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926c0"
+  },
+  "id": 473,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "C3",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926c1"
+  },
+  "id": 474,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "C4",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926c2"
+  },
+  "id": 475,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "C5",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926c3"
+  },
+  "id": 476,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "C6",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926c4"
+  },
+  "id": 477,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "C7",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926c5"
+  },
+  "id": 478,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "C8",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926c6"
+  },
+  "id": 479,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "C9",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926c7"
+  },
+  "id": 480,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "C10",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926c8"
+  },
+  "id": 481,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "D1",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926c9"
+  },
+  "id": 482,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "D2",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926ca"
+  },
+  "id": 483,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "D3",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926cb"
+  },
+  "id": 484,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "D4",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926cc"
+  },
+  "id": 485,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "D5",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926cd"
+  },
+  "id": 486,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "D6",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926ce"
+  },
+  "id": 487,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "D7",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926cf"
+  },
+  "id": 488,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "D8",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926d0"
+  },
+  "id": 489,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "D9",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926d1"
+  },
+  "id": 490,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "D10",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926d2"
+  },
+  "id": 491,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "E1",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926d3"
+  },
+  "id": 492,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "E2",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926d4"
+  },
+  "id": 493,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "E3",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926d5"
+  },
+  "id": 494,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "E4",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926d6"
+  },
+  "id": 495,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "E5",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926d7"
+  },
+  "id": 496,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "E6",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926d8"
+  },
+  "id": 497,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "E7",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926d9"
+  },
+  "id": 498,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "E8",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926da"
+  },
+  "id": 499,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "E9",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926db"
+  },
+  "id": 500,
+  "theatre_id": 4,
+  "movie_id": 6,
+  "seat_no": "E10",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926dc"
+  },
+  "id": 501,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "A1",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926dd"
+  },
+  "id": 502,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "A2",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926de"
+  },
+  "id": 503,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "A3",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926df"
+  },
+  "id": 504,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "A4",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926e0"
+  },
+  "id": 505,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "A5",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926e1"
+  },
+  "id": 506,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "A6",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926e2"
+  },
+  "id": 507,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "A7",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926e3"
+  },
+  "id": 508,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "A8",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926e4"
+  },
+  "id": 509,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "A9",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926e5"
+  },
+  "id": 510,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "A10",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926e6"
+  },
+  "id": 511,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "B1",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926e7"
+  },
+  "id": 512,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "B2",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926e8"
+  },
+  "id": 513,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "B3",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926e9"
+  },
+  "id": 514,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "B4",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926ea"
+  },
+  "id": 515,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "B5",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926eb"
+  },
+  "id": 516,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "B6",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926ec"
+  },
+  "id": 517,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "B7",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926ed"
+  },
+  "id": 518,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "B8",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926ee"
+  },
+  "id": 519,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "B9",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926ef"
+  },
+  "id": 520,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "B10",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926f0"
+  },
+  "id": 521,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "C1",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926f1"
+  },
+  "id": 522,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "C2",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926f2"
+  },
+  "id": 523,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "C3",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926f3"
+  },
+  "id": 524,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "C4",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926f4"
+  },
+  "id": 525,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "C5",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926f5"
+  },
+  "id": 526,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "C6",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926f6"
+  },
+  "id": 527,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "C7",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926f7"
+  },
+  "id": 528,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "C8",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926f8"
+  },
+  "id": 529,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "C9",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926f9"
+  },
+  "id": 530,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "C10",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926fa"
+  },
+  "id": 531,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "D1",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926fb"
+  },
+  "id": 532,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "D2",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926fc"
+  },
+  "id": 533,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "D3",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926fd"
+  },
+  "id": 534,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "D4",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926fe"
+  },
+  "id": 535,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "D5",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d926ff"
+  },
+  "id": 536,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "D6",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92700"
+  },
+  "id": 537,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "D7",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92701"
+  },
+  "id": 538,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "D8",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92702"
+  },
+  "id": 539,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "D9",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92703"
+  },
+  "id": 540,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "D10",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92704"
+  },
+  "id": 541,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "E1",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92705"
+  },
+  "id": 542,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "E2",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92706"
+  },
+  "id": 543,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "E3",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92707"
+  },
+  "id": 544,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "E4",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92708"
+  },
+  "id": 545,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "E5",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92709"
+  },
+  "id": 546,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "E6",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9270a"
+  },
+  "id": 547,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "E7",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9270b"
+  },
+  "id": 548,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "E8",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9270c"
+  },
+  "id": 549,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "E9",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9270d"
+  },
+  "id": 550,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "E10",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9270e"
+  },
+  "id": 551,
+  "theatre_id": 4,
+  "movie_id": 5,
+  "seat_no": "A1",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9270f"
+  },
+  "id": 552,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "A2",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92710"
+  },
+  "id": 553,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "A3",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92711"
+  },
+  "id": 554,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "A4",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92712"
+  },
+  "id": 555,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "A5",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92713"
+  },
+  "id": 556,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "A6",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92714"
+  },
+  "id": 557,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "A7",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92715"
+  },
+  "id": 558,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "A8",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92716"
+  },
+  "id": 559,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "A9",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92717"
+  },
+  "id": 560,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "A10",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92718"
+  },
+  "id": 561,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "B1",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92719"
+  },
+  "id": 562,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "B2",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9271a"
+  },
+  "id": 563,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "B3",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9271b"
+  },
+  "id": 564,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "B4",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9271c"
+  },
+  "id": 565,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "B5",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9271d"
+  },
+  "id": 566,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "B6",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9271e"
+  },
+  "id": 567,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "B7",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9271f"
+  },
+  "id": 568,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "B8",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92720"
+  },
+  "id": 569,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "B9",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92721"
+  },
+  "id": 570,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "B10",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92722"
+  },
+  "id": 571,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "C1",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92723"
+  },
+  "id": 572,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "C2",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92724"
+  },
+  "id": 573,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "C3",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92725"
+  },
+  "id": 574,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "C4",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92726"
+  },
+  "id": 575,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "C5",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92727"
+  },
+  "id": 576,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "C6",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92728"
+  },
+  "id": 577,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "C7",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92729"
+  },
+  "id": 578,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "C8",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9272a"
+  },
+  "id": 579,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "C9",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9272b"
+  },
+  "id": 580,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "C10",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9272c"
+  },
+  "id": 581,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "D1",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9272d"
+  },
+  "id": 582,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "D2",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9272e"
+  },
+  "id": 583,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "D3",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9272f"
+  },
+  "id": 584,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "D4",
+  "is_reserved": true,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92730"
+  },
+  "id": 585,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "D5",
+  "is_reserved": true,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92731"
+  },
+  "id": 586,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "D6",
+  "is_reserved": true,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92732"
+  },
+  "id": 587,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "D7",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92733"
+  },
+  "id": 588,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "D8",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92734"
+  },
+  "id": 589,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "D9",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92735"
+  },
+  "id": 590,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "D10",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92736"
+  },
+  "id": 591,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "E1",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92737"
+  },
+  "id": 592,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "E2",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92738"
+  },
+  "id": 593,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "E3",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92739"
+  },
+  "id": 594,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "E4",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9273a"
+  },
+  "id": 595,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "E5",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9273b"
+  },
+  "id": 596,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "E6",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9273c"
+  },
+  "id": 597,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "E7",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9273d"
+  },
+  "id": 598,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "E8",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9273e"
+  },
+  "id": 599,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "E9",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9273f"
+  },
+  "id": 600,
+  "theatre_id": 4,
+  "movie_id": 4,
+  "seat_no": "E10",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92740"
+  },
+  "id": 601,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "A1",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92741"
+  },
+  "id": 602,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "A2",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92742"
+  },
+  "id": 603,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "A3",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92743"
+  },
+  "id": 604,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "A4",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92744"
+  },
+  "id": 605,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "A5",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92745"
+  },
+  "id": 606,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "A6",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92746"
+  },
+  "id": 607,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "A7",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92747"
+  },
+  "id": 608,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "A8",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92748"
+  },
+  "id": 609,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "A9",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92749"
+  },
+  "id": 610,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "A10",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9274a"
+  },
+  "id": 611,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "B1",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9274b"
+  },
+  "id": 612,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "B2",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9274c"
+  },
+  "id": 613,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "B3",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9274d"
+  },
+  "id": 614,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "B4",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9274e"
+  },
+  "id": 615,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "B5",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9274f"
+  },
+  "id": 616,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "B6",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92750"
+  },
+  "id": 617,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "B7",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92751"
+  },
+  "id": 618,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "B8",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92752"
+  },
+  "id": 619,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "B9",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92753"
+  },
+  "id": 620,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "B10",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92754"
+  },
+  "id": 621,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "C1",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92755"
+  },
+  "id": 622,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "C2",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92756"
+  },
+  "id": 623,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "C3",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92757"
+  },
+  "id": 624,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "C4",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92758"
+  },
+  "id": 625,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "C5",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92759"
+  },
+  "id": 626,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "C6",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9275a"
+  },
+  "id": 627,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "C7",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9275b"
+  },
+  "id": 628,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "C8",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9275c"
+  },
+  "id": 629,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "C9",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9275d"
+  },
+  "id": 630,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "C10",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9275e"
+  },
+  "id": 631,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "D1",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9275f"
+  },
+  "id": 632,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "D2",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92760"
+  },
+  "id": 633,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "D3",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92761"
+  },
+  "id": 634,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "D4",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92762"
+  },
+  "id": 635,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "D5",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92763"
+  },
+  "id": 636,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "D6",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92764"
+  },
+  "id": 637,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "D7",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92765"
+  },
+  "id": 638,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "D8",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92766"
+  },
+  "id": 639,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "D9",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92767"
+  },
+  "id": 640,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "D10",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92768"
+  },
+  "id": 641,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "E1",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92769"
+  },
+  "id": 642,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "E2",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9276a"
+  },
+  "id": 643,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "E3",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9276b"
+  },
+  "id": 644,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "E4",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9276c"
+  },
+  "id": 645,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "E5",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9276d"
+  },
+  "id": 646,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "E6",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9276e"
+  },
+  "id": 647,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "E7",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9276f"
+  },
+  "id": 648,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "E8",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92770"
+  },
+  "id": 649,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "E9",
+  "is_reserved": true,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92771"
+  },
+  "id": 650,
+  "theatre_id": 5,
+  "movie_id": 3,
+  "seat_no": "E10",
+  "is_reserved": true,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92772"
+  },
+  "id": 651,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "A1",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92773"
+  },
+  "id": 652,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "A2",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92774"
+  },
+  "id": 653,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "A3",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92775"
+  },
+  "id": 654,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "A4",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92776"
+  },
+  "id": 655,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "A5",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92777"
+  },
+  "id": 656,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "A6",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92778"
+  },
+  "id": 657,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "A7",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92779"
+  },
+  "id": 658,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "A8",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9277a"
+  },
+  "id": 659,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "A9",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9277b"
+  },
+  "id": 660,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "A10",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9277c"
+  },
+  "id": 661,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "B1",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9277d"
+  },
+  "id": 662,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "B2",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9277e"
+  },
+  "id": 663,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "B3",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9277f"
+  },
+  "id": 664,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "B4",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92780"
+  },
+  "id": 665,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "B5",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92781"
+  },
+  "id": 666,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "B6",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92782"
+  },
+  "id": 667,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "B7",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92783"
+  },
+  "id": 668,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "B8",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92784"
+  },
+  "id": 669,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "B9",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92785"
+  },
+  "id": 670,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "B10",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92786"
+  },
+  "id": 671,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "C1",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92787"
+  },
+  "id": 672,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "C2",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92788"
+  },
+  "id": 673,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "C3",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92789"
+  },
+  "id": 674,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "C4",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9278a"
+  },
+  "id": 675,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "C5",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9278b"
+  },
+  "id": 676,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "C6",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9278c"
+  },
+  "id": 677,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "C7",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9278d"
+  },
+  "id": 678,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "C8",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9278e"
+  },
+  "id": 679,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "C9",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9278f"
+  },
+  "id": 680,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "C10",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92790"
+  },
+  "id": 681,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "D1",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92791"
+  },
+  "id": 682,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "D2",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92792"
+  },
+  "id": 683,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "D3",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92793"
+  },
+  "id": 684,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "D4",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92794"
+  },
+  "id": 685,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "D5",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92795"
+  },
+  "id": 686,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "D6",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92796"
+  },
+  "id": 687,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "D7",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92797"
+  },
+  "id": 688,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "D8",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92798"
+  },
+  "id": 689,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "D9",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92799"
+  },
+  "id": 690,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "D10",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9279a"
+  },
+  "id": 691,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "E1",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9279b"
+  },
+  "id": 692,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "E2",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9279c"
+  },
+  "id": 693,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "E3",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9279d"
+  },
+  "id": 694,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "E4",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9279e"
+  },
+  "id": 695,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "E5",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9279f"
+  },
+  "id": 696,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "E6",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927a0"
+  },
+  "id": 697,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "E7",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927a1"
+  },
+  "id": 698,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "E8",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927a2"
+  },
+  "id": 699,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "E9",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927a3"
+  },
+  "id": 700,
+  "theatre_id": 5,
+  "movie_id": 2,
+  "seat_no": "E10",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927a4"
+  },
+  "id": 701,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "A1",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927a5"
+  },
+  "id": 702,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "A2",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927a6"
+  },
+  "id": 703,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "A3",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927a7"
+  },
+  "id": 704,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "A4",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927a8"
+  },
+  "id": 705,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "A5",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927a9"
+  },
+  "id": 706,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "A6",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927aa"
+  },
+  "id": 707,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "A7",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927ab"
+  },
+  "id": 708,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "A8",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927ac"
+  },
+  "id": 709,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "A9",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927ad"
+  },
+  "id": 710,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "A10",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927ae"
+  },
+  "id": 711,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "B1",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927af"
+  },
+  "id": 712,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "B2",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927b0"
+  },
+  "id": 713,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "B3",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927b1"
+  },
+  "id": 714,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "B4",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927b2"
+  },
+  "id": 715,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "B5",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927b3"
+  },
+  "id": 716,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "B6",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927b4"
+  },
+  "id": 717,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "B7",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927b5"
+  },
+  "id": 718,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "B8",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927b6"
+  },
+  "id": 719,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "B9",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927b7"
+  },
+  "id": 720,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "B10",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927b8"
+  },
+  "id": 721,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "C1",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927b9"
+  },
+  "id": 722,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "C2",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927ba"
+  },
+  "id": 723,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "C3",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927bb"
+  },
+  "id": 724,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "C4",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927bc"
+  },
+  "id": 725,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "C5",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927bd"
+  },
+  "id": 726,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "C6",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927be"
+  },
+  "id": 727,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "C7",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927bf"
+  },
+  "id": 728,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "C8",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927c0"
+  },
+  "id": 729,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "C9",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927c1"
+  },
+  "id": 730,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "C10",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927c2"
+  },
+  "id": 731,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "D1",
+  "is_reserved": true,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927c3"
+  },
+  "id": 732,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "D2",
+  "is_reserved": true,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927c4"
+  },
+  "id": 733,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "D3",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927c5"
+  },
+  "id": 734,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "D4",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927c6"
+  },
+  "id": 735,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "D5",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927c7"
+  },
+  "id": 736,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "D6",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927c8"
+  },
+  "id": 737,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "D7",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927c9"
+  },
+  "id": 738,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "D8",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927ca"
+  },
+  "id": 739,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "D9",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927cb"
+  },
+  "id": 740,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "D10",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927cc"
+  },
+  "id": 741,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "E1",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927cd"
+  },
+  "id": 742,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "E2",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927ce"
+  },
+  "id": 743,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "E3",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927cf"
+  },
+  "id": 744,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "E4",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927d0"
+  },
+  "id": 745,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "E5",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927d1"
+  },
+  "id": 746,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "E6",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927d2"
+  },
+  "id": 747,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "E7",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927d3"
+  },
+  "id": 748,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "E8",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927d4"
+  },
+  "id": 749,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "E9",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927d5"
+  },
+  "id": 750,
+  "theatre_id": 5,
+  "movie_id": 1,
+  "seat_no": "E10",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927d6"
+  },
+  "id": 751,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "A1",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927d7"
+  },
+  "id": 752,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "A2",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927d8"
+  },
+  "id": 753,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "A3",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927d9"
+  },
+  "id": 754,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "A4",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927da"
+  },
+  "id": 755,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "A5",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927db"
+  },
+  "id": 756,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "A6",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927dc"
+  },
+  "id": 757,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "A7",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927dd"
+  },
+  "id": 758,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "A8",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927de"
+  },
+  "id": 759,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "A9",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927df"
+  },
+  "id": 760,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "A10",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927e0"
+  },
+  "id": 761,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "B1",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927e1"
+  },
+  "id": 762,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "B2",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927e2"
+  },
+  "id": 763,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "B3",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927e3"
+  },
+  "id": 764,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "B4",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927e4"
+  },
+  "id": 765,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "B5",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927e5"
+  },
+  "id": 766,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "B6",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927e6"
+  },
+  "id": 767,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "B7",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927e7"
+  },
+  "id": 768,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "B8",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927e8"
+  },
+  "id": 769,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "B9",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927e9"
+  },
+  "id": 770,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "B10",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927ea"
+  },
+  "id": 771,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "C1",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927eb"
+  },
+  "id": 772,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "C2",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927ec"
+  },
+  "id": 773,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "C3",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927ed"
+  },
+  "id": 774,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "C4",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927ee"
+  },
+  "id": 775,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "C5",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927ef"
+  },
+  "id": 776,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "C6",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927f0"
+  },
+  "id": 777,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "C7",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927f1"
+  },
+  "id": 778,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "C8",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927f2"
+  },
+  "id": 779,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "C9",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927f3"
+  },
+  "id": 780,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "C10",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927f4"
+  },
+  "id": 781,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "D1",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927f5"
+  },
+  "id": 782,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "D2",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927f6"
+  },
+  "id": 783,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "D3",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927f7"
+  },
+  "id": 784,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "D4",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927f8"
+  },
+  "id": 785,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "D5",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927f9"
+  },
+  "id": 786,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "D6",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927fa"
+  },
+  "id": 787,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "D7",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927fb"
+  },
+  "id": 788,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "D8",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927fc"
+  },
+  "id": 789,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "D9",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927fd"
+  },
+  "id": 790,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "D10",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927fe"
+  },
+  "id": 791,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "E1",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d927ff"
+  },
+  "id": 792,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "E2",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92800"
+  },
+  "id": 793,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "E3",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92801"
+  },
+  "id": 794,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "E4",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92802"
+  },
+  "id": 795,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "E5",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92803"
+  },
+  "id": 796,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "E6",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92804"
+  },
+  "id": 797,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "E7",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92805"
+  },
+  "id": 798,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "E8",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92806"
+  },
+  "id": 799,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "E9",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92807"
+  },
+  "id": 800,
+  "theatre_id": 6,
+  "movie_id": 3,
+  "seat_no": "E10",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92808"
+  },
+  "id": 801,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "A1",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92809"
+  },
+  "id": 802,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "A2",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9280a"
+  },
+  "id": 803,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "A3",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9280b"
+  },
+  "id": 804,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "A4",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9280c"
+  },
+  "id": 805,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "A5",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9280d"
+  },
+  "id": 806,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "A6",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9280e"
+  },
+  "id": 807,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "A7",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9280f"
+  },
+  "id": 808,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "A8",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92810"
+  },
+  "id": 809,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "A9",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92811"
+  },
+  "id": 810,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "A10",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92812"
+  },
+  "id": 811,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "B1",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92813"
+  },
+  "id": 812,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "B2",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92814"
+  },
+  "id": 813,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "B3",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92815"
+  },
+  "id": 814,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "B4",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92816"
+  },
+  "id": 815,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "B5",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92817"
+  },
+  "id": 816,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "B6",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92818"
+  },
+  "id": 817,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "B7",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92819"
+  },
+  "id": 818,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "B8",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9281a"
+  },
+  "id": 819,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "B9",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9281b"
+  },
+  "id": 820,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "B10",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9281c"
+  },
+  "id": 821,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "C1",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9281d"
+  },
+  "id": 822,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "C2",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9281e"
+  },
+  "id": 823,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "C3",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9281f"
+  },
+  "id": 824,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "C4",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92820"
+  },
+  "id": 825,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "C5",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92821"
+  },
+  "id": 826,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "C6",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92822"
+  },
+  "id": 827,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "C7",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92823"
+  },
+  "id": 828,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "C8",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92824"
+  },
+  "id": 829,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "C9",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92825"
+  },
+  "id": 830,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "C10",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92826"
+  },
+  "id": 831,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "D1",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92827"
+  },
+  "id": 832,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "D2",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92828"
+  },
+  "id": 833,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "D3",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92829"
+  },
+  "id": 834,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "D4",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9282a"
+  },
+  "id": 835,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "D5",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9282b"
+  },
+  "id": 836,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "D6",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9282c"
+  },
+  "id": 837,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "D7",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9282d"
+  },
+  "id": 838,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "D8",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9282e"
+  },
+  "id": 839,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "D9",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9282f"
+  },
+  "id": 840,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "D10",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92830"
+  },
+  "id": 841,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "E1",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92831"
+  },
+  "id": 842,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "E2",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92832"
+  },
+  "id": 843,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "E3",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92833"
+  },
+  "id": 844,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "E4",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92834"
+  },
+  "id": 845,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "E5",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92835"
+  },
+  "id": 846,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "E6",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92836"
+  },
+  "id": 847,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "E7",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92837"
+  },
+  "id": 848,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "E8",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92838"
+  },
+  "id": 849,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "E9",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92839"
+  },
+  "id": 850,
+  "theatre_id": 6,
+  "movie_id": 2,
+  "seat_no": "E10",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9283a"
+  },
+  "id": 851,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "A1",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9283b"
+  },
+  "id": 852,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "A2",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9283c"
+  },
+  "id": 853,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "A3",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9283d"
+  },
+  "id": 854,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "A4",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9283e"
+  },
+  "id": 855,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "A5",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9283f"
+  },
+  "id": 856,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "A6",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92840"
+  },
+  "id": 857,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "A7",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92841"
+  },
+  "id": 858,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "A8",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92842"
+  },
+  "id": 859,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "A9",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92843"
+  },
+  "id": 860,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "A10",
+  "is_reserved": false,
+  "category": "Platinum",
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92844"
+  },
+  "id": 861,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "B1",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92845"
+  },
+  "id": 862,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "B2",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92846"
+  },
+  "id": 863,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "B3",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92847"
+  },
+  "id": 864,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "B4",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92848"
+  },
+  "id": 865,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "B5",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92849"
+  },
+  "id": 866,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "B6",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9284a"
+  },
+  "id": 867,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "B7",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9284b"
+  },
+  "id": 868,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "B8",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9284c"
+  },
+  "id": 869,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "B9",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9284d"
+  },
+  "id": 870,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "B10",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9284e"
+  },
+  "id": 871,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "C1",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9284f"
+  },
+  "id": 872,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "C2",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92850"
+  },
+  "id": 873,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "C3",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92851"
+  },
+  "id": 874,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "C4",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92852"
+  },
+  "id": 875,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "C5",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92853"
+  },
+  "id": 876,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "C6",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92854"
+  },
+  "id": 877,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "C7",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92855"
+  },
+  "id": 878,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "C8",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92856"
+  },
+  "id": 879,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "C9",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92857"
+  },
+  "id": 880,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "C10",
+  "is_reserved": false,
+  "category": "Gold",
+  "price": 350
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92858"
+  },
+  "id": 881,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "D1",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92859"
+  },
+  "id": 882,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "D2",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9285a"
+  },
+  "id": 883,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "D3",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9285b"
+  },
+  "id": 884,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "D4",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9285c"
+  },
+  "id": 885,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "D5",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9285d"
+  },
+  "id": 886,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "D6",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9285e"
+  },
+  "id": 887,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "D7",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9285f"
+  },
+  "id": 888,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "D8",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92860"
+  },
+  "id": 889,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "D9",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92861"
+  },
+  "id": 890,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "D10",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92862"
+  },
+  "id": 891,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "E1",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92863"
+  },
+  "id": 892,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "E2",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92864"
+  },
+  "id": 893,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "E3",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92865"
+  },
+  "id": 894,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "E4",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92866"
+  },
+  "id": 895,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "E5",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92867"
+  },
+  "id": 896,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "E6",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92868"
+  },
+  "id": 897,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "E7",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d92869"
+  },
+  "id": 898,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "E8",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9286a"
+  },
+  "id": 899,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "E9",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "65bb7234dadcf1ba51d9286b"
+  },
+  "id": 900,
+  "theatre_id": 6,
+  "movie_id": 1,
+  "seat_no": "E10",
+  "is_reserved": false,
+  "category": "Silver",
+  "price": 200
+}]

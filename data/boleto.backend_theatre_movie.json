@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "65afbfd68303a15f8d6b5f66"
+  },
+  "id": 4,
+  "theatre_id": 6,
+  "movie_id": 1
+},
+{
+  "_id": {
+    "$oid": "65afbfd68303a15f8d6b5f67"
+  },
+  "id": 5,
+  "theatre_id": 6,
+  "movie_id": 2
+},
+{
+  "_id": {
+    "$oid": "65afc0a38303a15f8d6b5f69"
+  },
+  "id": 6,
+  "theatre_id": 6,
+  "movie_id": 3
+},
+{
+  "_id": {
+    "$oid": "65afc0b58303a15f8d6b5f6b"
+  },
+  "id": 7,
+  "theatre_id": 5,
+  "movie_id": 1
+},
+{
+  "_id": {
+    "$oid": "65afc0b58303a15f8d6b5f6c"
+  },
+  "id": 8,
+  "theatre_id": 5,
+  "movie_id": 2
+},
+{
+  "_id": {
+    "$oid": "65afc0b58303a15f8d6b5f6d"
+  },
+  "id": 9,
+  "theatre_id": 5,
+  "movie_id": 3
+},
+{
+  "_id": {
+    "$oid": "65afc0c18303a15f8d6b5f6f"
+  },
+  "id": 10,
+  "theatre_id": 4,
+  "movie_id": 4
+},
+{
+  "_id": {
+    "$oid": "65afc0c18303a15f8d6b5f70"
+  },
+  "id": 11,
+  "theatre_id": 4,
+  "movie_id": 5
+},
+{
+  "_id": {
+    "$oid": "65afc0c18303a15f8d6b5f71"
+  },
+  "id": 12,
+  "theatre_id": 4,
+  "movie_id": 6
+},
+{
+  "_id": {
+    "$oid": "65afc0e18303a15f8d6b5f74"
+  },
+  "id": 13,
+  "theatre_id": 3,
+  "movie_id": 4
+},
+{
+  "_id": {
+    "$oid": "65afc0e18303a15f8d6b5f75"
+  },
+  "id": 14,
+  "theatre_id": 3,
+  "movie_id": 5
+},
+{
+  "_id": {
+    "$oid": "65afc0e18303a15f8d6b5f76"
+  },
+  "id": 15,
+  "theatre_id": 3,
+  "movie_id": 6
+},
+{
+  "_id": {
+    "$oid": "65afc0ea8303a15f8d6b5f78"
+  },
+  "id": 16,
+  "theatre_id": 2,
+  "movie_id": 8
+},
+{
+  "_id": {
+    "$oid": "65afc0ea8303a15f8d6b5f79"
+  },
+  "id": 17,
+  "theatre_id": 2,
+  "movie_id": 9
+},
+{
+  "_id": {
+    "$oid": "65afc0ea8303a15f8d6b5f7a"
+  },
+  "id": 18,
+  "theatre_id": 2,
+  "movie_id": 7
+},
+{
+  "_id": {
+    "$oid": "65afc0f08303a15f8d6b5f7c"
+  },
+  "id": 19,
+  "theatre_id": 1,
+  "movie_id": 8
+},
+{
+  "_id": {
+    "$oid": "65afc0f08303a15f8d6b5f7d"
+  },
+  "id": 20,
+  "theatre_id": 1,
+  "movie_id": 9
+},
+{
+  "_id": {
+    "$oid": "65afc0f08303a15f8d6b5f7e"
+  },
+  "id": 21,
+  "theatre_id": 1,
+  "movie_id": 7
+}]

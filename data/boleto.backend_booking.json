@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "65bbbb72c9bd994cf144e226"
+  },
+  "id": 59,
+  "user_id": 1,
+  "movie_id": 1,
+  "theatre_id": 5,
+  "booking_time": {
+    "$date": "2024-02-01T15:40:34.575Z"
+  },
+  "total_price": 700
+},
+{
+  "_id": {
+    "$oid": "65bbcb7c08f041b3781b236d"
+  },
+  "id": 76,
+  "user_id": 1,
+  "movie_id": 5,
+  "theatre_id": 3,
+  "booking_time": {
+    "$date": "2024-02-01T16:49:00.172Z"
+  },
+  "total_price": 1000
+},
+{
+  "_id": {
+    "$oid": "65bbcc878fb26f75c8253d57"
+  },
+  "id": 81,
+  "user_id": 1,
+  "movie_id": 1,
+  "theatre_id": 6,
+  "booking_time": {
+    "$date": "2024-02-01T16:53:27.359Z"
+  },
+  "total_price": 600
+},
+{
+  "_id": {
+    "$oid": "65c1382611482af6e53b0ce0"
+  },
+  "id": 87,
+  "user_id": 1,
+  "movie_id": 3,
+  "theatre_id": 5,
+  "booking_time": {
+    "$date": "2024-02-05T19:33:58.287Z"
+  },
+  "total_price": 400
+},
+{
+  "_id": {
+    "$oid": "65c256eddf962f97875c408a"
+  },
+  "id": 88,
+  "user_id": 4,
+  "movie_id": 4,
+  "theatre_id": 4,
+  "booking_time": {
+    "$date": "2024-02-06T15:57:33.188Z"
+  },
+  "total_price": 600
+}]

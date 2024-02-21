@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "65a685519581c3fb266a3063"
+  },
+  "id": 1,
+  "name": "G7 Multiplex : Bandra (W)",
+  "city": "Mumbai",
+  "address": "Swami Vivekanand Marg, Tata Blocks, 30th Cross Road, Near Tata Blocks, Bandra West, Mumbai, Maharashtra 400050, India"
+},
+{
+  "_id": {
+    "$oid": "65a685519581c3fb266a3064"
+  },
+  "id": 2,
+  "name": "Cinepolis : Andheri (W)",
+  "city": "Mumbai",
+  "address": "Plot No.844/4,Level 4, Shah Industrial Estate, Veera Desai Road, Andheri(West), Near ICICI Bank ATM, Mumbai, Maharashtra 400053, India"
+},
+{
+  "_id": {
+    "$oid": "65a685519581c3fb266a3065"
+  },
+  "id": 3,
+  "name": "Maxus Cinemas : Borivali (W)",
+  "city": "Mumbai",
+  "address": "Zoom Plaza Mall, 4th Floor,L.T. Road, Borivali (W), Opposite Gorai Depot, Mumbai, Maharashtra 400092, India"
+},
+{
+  "_id": {
+    "$oid": "65a685519581c3fb266a3066"
+  },
+  "id": 4,
+  "name": "BMX Cinemas : Kharghar",
+  "city": "Navi Mumbai",
+  "address": "Plot No 21, Pravesh Marg, Sector 2, Navi Mumbai, Maharashtra 410210, India"
+},
+{
+  "_id": {
+    "$oid": "65a685519581c3fb266a3067"
+  },
+  "id": 5,
+  "name": "Miraj Cineraj Cinemas : Panvel",
+  "city": "Navi Mumbai",
+  "address": "Plot 1/3 Shubham Commercial Complex, Sector 11 New Panvel, Near Punjab National Bank Near Ganaraj Auto Service And Petrol Pump, Navi Mumbai,"
+},
+{
+  "_id": {
+    "$oid": "65aea0acdadcf1ba51d923f4"
+  },
+  "id": 6,
+  "name": "Maison INOX",
+  "city": "Mumbai",
+  "address": "3rd Floor, Jio World Plaza, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400055, India"
+}]

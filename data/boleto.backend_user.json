@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "65a3e1b777f2c7619919e819"
+  },
+  "id": 1,
+  "last_login": {
+    "$date": "2024-01-23T17:34:27.304Z"
+  },
+  "name": "mansur ali",
+  "username": "alimansur",
+  "email": "alimansur@gmail.com",
+  "password": "pbkdf2_sha256$320000$seF3W5D0WL0H7oN29fwbgi$MUOdQCXzehqB3EkmS9gXGFNQpmZtPVyKa4oUQqjD2/c=",
+  "is_active": true,
+  "is_staff": true,
+  "is_superuser": true
+},
+{
+  "_id": {
+    "$oid": "65c255aadf962f97875c4087"
+  },
+  "id": 2,
+  "last_login": null,
+  "name": "haroon",
+  "username": "haroonsk",
+  "email": "haroon@gmail.com",
+  "password": "pbkdf2_sha256$320000$XwdfLfcJbQOwaFaoHcrv9h$nsJVDnqV4GxeBs8tj5MTNHuWJLqbuLJG2zo/4CTcBrw=",
+  "is_active": true,
+  "is_staff": false,
+  "is_superuser": false
+},
+{
+  "_id": {
+    "$oid": "65c25643df962f97875c4088"
+  },
+  "id": 3,
+  "last_login": null,
+  "name": "ameen",
+  "username": "alameen",
+  "email": "ameenabdul@gmai.com",
+  "password": "pbkdf2_sha256$320000$yrchhejkCcmeUYWU6QHsoo$qM2xL5uQqOi0mKvI/29D7/65ii9jcaNOFZ0LXpFD9aw=",
+  "is_active": true,
+  "is_staff": false,
+  "is_superuser": false
+},
+{
+  "_id": {
+    "$oid": "65c256c6df962f97875c4089"
+  },
+  "id": 4,
+  "last_login": null,
+  "name": "sameer",
+  "username": "sameersk",
+  "email": "sameerahmed@gmail.com",
+  "password": "pbkdf2_sha256$320000$STKmK5YDccP6VPUrVGshrV$w8x7PYzJR1oj5TfgIL4SEMHvfpOYFlV5kv20lZIQPlA=",
+  "is_active": true,
+  "is_staff": false,
+  "is_superuser": false
+}]
