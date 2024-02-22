@@ -25,8 +25,9 @@ function BookingPage() {
     }, [])
 
     return (
-        <>
-            <h1>booking</h1>
+        <div className="container">
+            <h2 className="m-3" style={{ color: "white"}}>Booking Summary</h2>
+            <hr />
             {isLoading ?
                 <div class="spinner-border text-success" style={{ width: "5rem", height: "5rem" }} role="status">
                     <span class="sr-only">Loading...</span>
@@ -34,7 +35,7 @@ function BookingPage() {
                 :
                 (<Ticket data={booking}/>)
                 }
-        </>
+        </div>
     )
 }
 
